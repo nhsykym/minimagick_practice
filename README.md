@@ -1,0 +1,1 @@
+# minimagick_practice
